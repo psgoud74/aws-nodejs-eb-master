@@ -1,1 +1,1 @@
-# aws-nodejs-eb-master
+# AWS Elastic Beanstalk NodeJS application template
